@@ -1,0 +1,12 @@
+{
+    "name": "m-medhat.brackets-r",
+    "title": "Brackets-R",
+    "description": "R Language Support for Brackets",
+    "homepage": "https://github.com/M-Medhat/brackets-r",
+    "version": "0.1.0",
+    "author": "Mohammed Medhat <medhat.mohammed@gmail.com> (http://m-medhat.com)",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.21.0"
+    }
+}
